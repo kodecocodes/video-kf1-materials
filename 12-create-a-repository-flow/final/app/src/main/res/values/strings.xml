@@ -1,0 +1,13 @@
+<resources>
+
+  <string name="app_name">Episodes</string>
+  <string name="episodes">Episodes</string>
+  <string name="a11y_episode_item_image">Episode Poster</string>
+
+  <!-- Menu Filters -->
+  <string name="prequels">Prequels</string>
+  <string name="original">Original</string>
+  <string name="sequels">Sequels</string>
+  <string name="all">All</string>
+
+</resources>

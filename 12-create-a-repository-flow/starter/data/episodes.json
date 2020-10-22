@@ -1,0 +1,74 @@
+[
+  {
+    "episodeId": "tpm",
+    "name": "The Phantom Menace",
+    "director": "George Lucas",
+    "number": 1,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Phantom-Menace-I-Poster_3c1ff9eb.jpeg?width=480",
+    "trilogy": 1
+  },
+  {
+    "episodeId": "aotc",
+    "name": "Attack of the Clones",
+    "director": "George Lucas",
+    "number": 2,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Attack-Clones-II-Poster_53baa2e7.jpeg?width=480",
+    "trilogy": 1
+  },
+  {
+    "episodeId": "rots",
+    "name": "Revenge of the Sith",
+    "director": "George Lucas",
+    "number": 3,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Revenge-Sith-III-Poster_646108ce.jpeg?width=480",
+    "trilogy": 1
+  },
+  {
+    "episodeId": "anh",
+    "name": "A New Hope",
+    "director": "George Lucas",
+    "number": 4,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-New-Hope-IV-Poster_c217085b.jpeg?width=480",
+    "trilogy": 2
+  },
+  {
+    "episodeId": "tesb",
+    "name": "The Empire Strikes Back",
+    "director": "Irvin Kershner",
+    "number": 5,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Empire-Strikes-Back-V-Poster_878f7fce.jpeg?width=480",
+    "trilogy": 2
+  },
+  {
+    "episodeId": "rotj",
+    "name": "Return of the Jedi",
+    "director": "Richard Marquand",
+    "number": 6,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Return-Jedi-VI-Poster_a10501d2.jpeg?width=480",
+    "trilogy": 2
+  },
+  {
+    "episodeId": "tfa",
+    "name": "The Force Awakens",
+    "director": "J.J. Abrams",
+    "number": 7,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/avco_payoff_1-sht_v7_lg_32e68793.jpeg?width=480",
+    "trilogy": 3
+  },
+  {
+    "episodeId": "tlj",
+    "name": "The Last Jedi",
+    "director": "Rian Johnson",
+    "number": 8,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/the-last-jedi-theatrical-poster-film-page_bca06283.jpeg?width=480",
+    "trilogy": 3
+  },
+  {
+    "episodeId": "tros",
+    "name": "The Rise of Skywalker",
+    "director": "J.J. Abrams",
+    "number": 9,
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/star-wars-the-rise-of-skywalker-theatrical-poster-1000_ebc74357.jpeg?width=480",
+    "trilogy": 3
+  }
+]
